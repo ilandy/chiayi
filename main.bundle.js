@@ -422,7 +422,7 @@ var ReportService = (function () {
     //   private validationCodeUrl = this.baseApiUrl + 'ValidationCode/';//'../../assets/vd.json';
     function ReportService(http) {
         this.http = http;
-        this.baseApiUrl = '/assets/data/';
+        this.baseApiUrl = './assets/data/';
         this.reportTypesUrl = this.baseApiUrl + 'data-caseItems.json';
     }
     ReportService.prototype.getTypes = function () {
