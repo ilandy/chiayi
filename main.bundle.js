@@ -532,7 +532,7 @@ var environment = {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_13_core_js_es6_reflect___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_13_core_js_es6_reflect__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_14_core_js_es7_reflect__ = __webpack_require__(527);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_14_core_js_es7_reflect___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_14_core_js_es7_reflect__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15_zone_js_dist_zone__ = __webpack_require__(708);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15_zone_js_dist_zone__ = __webpack_require__(709);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_15_zone_js_dist_zone___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_15_zone_js_dist_zone__);
 
 
@@ -665,7 +665,7 @@ module.exports = module.exports.toString();
 /***/ 671:
 /***/ (function(module, exports) {
 
-module.exports = "<ul class=\"menu\">\n    <li><a routerlink=\"'/report'\">我要陳情</a></li>\n    <li><a routerlink=\"/query\">案件查詢</a></li>\n    <li><a routerlink=\"/proccess\">服務流程</a></li>\n    <li><a routerlink=\"/faq\">常見 FAQ</a></li>\n</ul>\n<div class=\"wrap\" [ngClass]=\"{'active':mb}\">\n    <header class=\"header clear-fix\">\n        <h1 class=\"header-brand\">\n            <a href=\"/\" class=\"header-logo\" alt=\"嘉義市政府 Logo\" title=\"嘉義市政府線上即時服務系統\">\n                \n            </a>\n        </h1>\n        <div class=\"header-menu\">\n            <div class=\"menu-button hidden-lg\" [ngClass]=\"{'active':mb}\" (click)=\"mb=!mb\" >\n                \n            </div>\n        </div>\n    </header>\n    <article class=\"content\">\n        <router-outlet></router-outlet>\n    </article>\n    <footer class=\"footer\">\n        <div class=\"footer-warp clear-fix\">\n            <div class=\"footer-info clear-fix\">\n                <img class=\"footer-img hidden-xs hidden-sm\" width=\"117\" height=\"117\" src=\"/assets/images/share/qrcode.png\" alt=\"網站手機版連結\" title=\"請使用手機 QRcode 掃描\">\n                <section class=\"footer-content\">\n                    <h2 class=\"font-default block-sprade bs-green\">本系統由 嘉義市政府企劃處 維護</h2>\n                    <p class=\"font-xs\">\n                        當系統處於定期維護時間，<br>\n                        每日凌晨 01:00 ~ 02:00 時，如有不便還請見諒。<br>\n                        嘉義市政府聯合服務中心電話：05-2254321<br>\n                    </p>\n                </section>\n            </div>\n            <ul class=\"footer-links font-sm\">\n                <li><a href=\"\">隱私權保護政策</a></li>\n                <li><a href=\"\">網站安全政策</a></li>\n                <li><a href=\"\">著作權聲明</a></li>\n                <li><a href=\"http://www.chiayi.gov.tw/2015web/index.aspx\">嘉義市政府全球資訊網</a></li>\n            </ul>\n        </div>\n    </footer>\n</div>"
+module.exports = "<ul class=\"menu\">\n    <li><a routerlink=\"'/report'\">我要陳情</a></li>\n    <li><a routerlink=\"/query\">案件查詢</a></li>\n    <li><a routerlink=\"/proccess\">服務流程</a></li>\n    <li><a routerlink=\"/faq\">常見 FAQ</a></li>\n</ul>\n<div class=\"wrap\" [ngClass]=\"{'active':mb}\">\n    <header class=\"header clear-fix\">\n        <h1 class=\"header-brand\">\n            <a href=\"/\" class=\"header-logo\" alt=\"嘉義市政府 Logo\" title=\"嘉義市政府線上即時服務系統\">\n                \n            </a>\n        </h1>\n        <div class=\"header-menu\">\n            <div class=\"menu-button hidden-lg\" [ngClass]=\"{'active':mb}\" (click)=\"mb=!mb\" >\n                \n            </div>\n        </div>\n    </header>\n    <article class=\"content\">\n        <router-outlet></router-outlet>\n    </article>\n    <footer class=\"footer\">\n        <div class=\"footer-warp clear-fix\">\n            <div class=\"footer-info clear-fix\">\n                <img class=\"footer-img hidden-xs hidden-sm\" width=\"117\" height=\"117\" src=\"./assets/images/share/qrcode.png\" alt=\"網站手機版連結\" title=\"請使用手機 QRcode 掃描\">\n                <section class=\"footer-content\">\n                    <h2 class=\"font-default block-sprade bs-green\">本系統由 嘉義市政府企劃處 維護</h2>\n                    <p class=\"font-xs\">\n                        當系統處於定期維護時間，<br>\n                        每日凌晨 01:00 ~ 02:00 時，如有不便還請見諒。<br>\n                        嘉義市政府聯合服務中心電話：05-2254321<br>\n                    </p>\n                </section>\n            </div>\n            <ul class=\"footer-links font-sm\">\n                <li><a href=\"\">隱私權保護政策</a></li>\n                <li><a href=\"\">網站安全政策</a></li>\n                <li><a href=\"\">著作權聲明</a></li>\n                <li><a href=\"http://www.chiayi.gov.tw/2015web/index.aspx\">嘉義市政府全球資訊網</a></li>\n            </ul>\n        </div>\n    </footer>\n</div>"
 
 /***/ }),
 
@@ -704,7 +704,7 @@ module.exports = "<p>\n  term works!\n</p>\n"
 
 /***/ }),
 
-/***/ 710:
+/***/ 711:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__(388);
@@ -712,5 +712,5 @@ module.exports = __webpack_require__(388);
 
 /***/ })
 
-},[710]);
+},[711]);
 //# sourceMappingURL=main.bundle.js.map
